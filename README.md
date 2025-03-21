@@ -39,8 +39,9 @@ O projeto está organizado da seguinte forma:
 ## Prints do Processo
 
 ### Exemplo de Execução do OCR
-![Print do OCR](![images](https://github.com/user-attachments/assets/f6d270df-adb5-4604-9150-e4e1689e10b5)
-)
+
+)![images](https://github.com/user-attachments/assets/b57d291d-90d3-434e-afb9-d9b1706fb791)
+
 
 ### Resultado do Reconhecimento de Texto
 📄 [output/imagem.txt](output/imagem.txt)
