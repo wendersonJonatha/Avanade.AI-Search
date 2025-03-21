@@ -1,20 +1,25 @@
 # Avanade.AI-Search
 
-# Desafio - OCR com Azure OpenAI e Content Filters
+ Projeto de Reconhecimento de Texto (OCR) com Azure OpenAI e Content Filters
 
 ## Introdução
-Neste projeto, desenvolvi uma aplicação de reconhecimento de texto (OCR) utilizando os conceitos abordados durante o conteúdo da DIO. O projeto demonstra como integrar ferramentas de Azure OpenAI, Microsoft Copilot e Content Filters para extrair texto de imagens e tratar os resultados de forma inteligente.
+Neste projeto, desenvolvi uma aplicação de reconhecimento de texto (OCR) utilizando os conceitos abordados durante o conteúdo da DIO. O objetivo foi demonstrar como integrar ferramentas avançadas, como Azure OpenAI, Microsoft Copilot e Content Filters, para extrair texto de imagens e tratar os resultados de forma inteligente. O projeto destaca a importância da automação e da inteligência artificial no processamento de dados.
+
+---
 
 ## Estrutura do Projeto
+O projeto está organizado da seguinte forma:
 - **inputs/**: Pasta contendo as imagens utilizadas para o reconhecimento de texto.
-- **output/**: Pasta onde foram salvos os resultados do OCR, com os textos extraídos de cada imagem.
+- **output/**: Pasta onde são salvos os resultados do OCR, com os textos extraídos de cada imagem.
 - **README.md**: Este arquivo, que descreve o processo, apresenta alguns prints e compartilha insights e possibilidades de futuras melhorias.
+
+---
 
 ## Passo a Passo do Processo
 
 ### 1. Preparação do Ambiente
-- Criação do repositório no GitHub com o nome `meu-projeto-ocr-dio`.
-- Organização das pastas `inputs` e `output` para armazenar as imagens e os resultados.
+- Criei um repositório no GitHub com o nome `meu-projeto-ocr-dio`.
+- Organizei as pastas `inputs` e `output` para armazenar as imagens e os resultados.
 
 ### 2. Captura das Imagens
 - Utilizei imagens contendo texto para testar a aplicação.
@@ -29,13 +34,18 @@ Neste projeto, desenvolvi uma aplicação de reconhecimento de texto (OCR) utili
 - Realizei ajustes finos para garantir que o reconhecimento estivesse preciso.
 - Alguns prints do processo foram capturados para ilustrar a execução e os resultados obtidos.
 
+---
+
 ## Prints do Processo
 
 ### Exemplo de Execução do OCR
-![Print do OCR]()
+![Print do OCR](![images](https://github.com/user-attachments/assets/f6d270df-adb5-4604-9150-e4e1689e10b5)
+)
 
 ### Resultado do Reconhecimento de Texto
-📄 [output/imagem.txt]()
+📄 [output/imagem.txt](output/imagem.txt)
+
+---
 
 ## Insights e Possibilidades
 
@@ -48,10 +58,14 @@ Os filtros de conteúdo possibilitam a melhoria dos resultados, removendo ruído
 ### Microsoft Copilot
 Explorando a generative AI com o Microsoft Copilot, pude automatizar parte do processo de revisão e validação dos resultados.
 
+---
+
 ## Futuras Expansões
 - Desenvolver uma interface web para exibir as imagens e os textos reconhecidos.
 - Implementar um pipeline de processamento mais robusto com logs e tratamento de erros.
 - Ampliar o uso de AI para incluir tradução ou análise semântica do texto extraído.
 
+---
+
 ## Conclusão
-Este projeto não apenas reforça a importância da organização e da documentação dos processos, mas também demonstra como utilizar tecnologias modernas para resolver problemas práticos. A integração com serviços da Azure e o uso de ferramentas de AI abrem diversas possibilidades para aprimorar a experiência de reconhecimento de texto e enriquecer o portfólio de projetos.
+Este projeto reforça a importância da organização e da documentação dos processos, além de demonstrar como tecnologias modernas, como Azure OpenAI e Microsoft Copilot, podem ser utilizadas para resolver problemas práticos. A integração com serviços da Azure e o uso de ferramentas de AI abrem diversas possibilidades para aprimorar a experiência de reconhecimento de texto e enriquecer o portfólio de projetos.
